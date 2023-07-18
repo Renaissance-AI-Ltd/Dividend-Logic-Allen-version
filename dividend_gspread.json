@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ddequote",
+  "private_key_id": "4572a44340ddc9824cf3904c98b73eee09eeab62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRMoRlUO1VAYSv\ncwTXQGa3i2QjO4utNJtlCGy+pKClMouGJBewUi2nZnxwlUMG1KJFKvazuj9lkB02\nwpwpa5cxHanEpiEfm+BnLAfqwWNCwLUY6KiUpREDIBn4Gk7iHKNbNZLxh+Vz9wA8\nn/MoMx0x9coliIgxwCX6K8e3bIlfRgtnvWwo39i43OxAHK0CKIZ1SQSz6ZTrAljb\nTVtqq++gti7xdKnfjXT7n0tRQcPNFMzRreMbDKQ5FMleeQfBzWQ1oOKbrEt7kIHs\nGAfzbOMAelEvhMOhuedEDPZESRcV4ZIia2MR6/Dp8EsEPDuzIABLLglst0iHgYnJ\nVWrslW27AgMBAAECggEAG9wkmUgo8dmjuwKH2EGMNAW0Biqjx21Dr+Qo8X+nL2t+\naBO+099A0VER6YxKWyIrrLfstFm1VmiLonk++5egYBVAAPKbgnQnX8SMFFhdEm7l\nkMz7o+H0XLQpJ3jsz+gM1DB4bI3V0iV/zyIlxv3fyTlPO1pyP5GN9+20mZZi2XvO\nMVGFwTFvthITPWchI6nd7owoa2azkxO7ahO0ggfTV3C2HS5ZREkc645RMBa8gpVE\ndfy3y4gwvPkefJ7X3GUbxPjm7H5FeB4Cf0Jl7bykpyKrN/9mAiX1Lx5SBInqPaPa\n8kzDSuoDbTl7Ee3n3vKIJoVoUp0A1fsP+8XzvsSH0QKBgQDB+99AQVz/fTv5+/JC\n8HU5ZwIoyQ5Nbk9EUyTA+q9HE+wnFyFj70ydSbF9N7ADXj7B72vC0zX4XvihT7Vw\nepO9rnRBEunf8xvTNkuyM7o1BX6PE3Zqr6MjETI5k6QAIEqW9XcMpBSdwOPjd3M8\nfvvZyQdWgzWXz+tok2GtYEzU2QKBgQC/ndTyqfHxfTneQ9+G8Ne6vEYGackKAspc\nDYpzmZyp3iiPrsAEBvcFUt+PTtjuUCQX9/8xpAohZRiQatX8EKqxvlnOo6C6g3qN\nqfO5PCJF/ztO6UqWEbSS3rm79cLbe5VMxEfAhTneyj5q8PyrT9xDzWHnFsFmt3dj\n3Z7mENkqswKBgQCA/jhKxixNSL3lUgCbOsL41OK+tFPqcXwMdy1tlkWQAlN6+wqd\nJbfQr/xyw+ErnDQnSkpiV4kADEdRHWwNy7UK4UM1MpqK7WKHZQeZDIS6VVj/U3Xf\nI8RbwUeguejInLB9CeWMZl+/N1FTJU9f3yEihWd3w/CTbxOfisHdRLhSoQKBgQCD\ntUIlFilGW1QGcdLYFv3Bzh231MiqB+b+RRRwhxrHK/vnXy9+1Sa/0wn1oDW+APn+\nO6l+fom0EKBEzBqPqwkZKYTjY1dcPHllnHb5UNsiD+C9Sd/JrRvYhB1YlAG/CYBD\nBvtm2mw/tfYXXdPfEQKO3EI6LEr9hoga7b+F1fjfvwKBgB9FTWi/I2OK2D0ZJvu3\nnyMYZFUUpjfLoJPXmaMUC/gerwuoQ33DXgQwMxX0kbzKj/VmTNkpN92xI3emi2tH\nOEA+o2/c1Ph+Au6JTDOgiwrED4DQbPds8rCLUaWnZYmgjWMO9bSAEX9VqLabk9hd\nJ9Fsk2V57iAwHMo55qEYRbK4\n-----END PRIVATE KEY-----\n",
+  "client_email": "quantallen@ddequote.iam.gserviceaccount.com",
+  "client_id": "106381076729723310255",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quantallen%40ddequote.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
